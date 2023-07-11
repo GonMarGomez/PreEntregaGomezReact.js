@@ -1,38 +1,21 @@
-.App {
-  text-align: center;
+.colores{
+    background-color: #FFDE59;
+    background-color: #458AC9;
+    background-color: #AF4E9C;
+    background-color: #FFE2C0;
+    background-color: #F79125;
+    background-color: #FFDE59;
+    background-color: #FC6160;
+    background-color: #060074;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.novedadesInicio{
+    background-image: url('./imagenes/6273506.gif');
+    background-position: center;
+    background-size: cover;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:'Share Tech', sans-serif;
 }

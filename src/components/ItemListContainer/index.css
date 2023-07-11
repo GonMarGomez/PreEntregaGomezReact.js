@@ -1,0 +1,15 @@
+.itemContainer{
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+    background: linear-gradient(#340565, #B71AA9);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itemContainerTitulo{
+    font-family:'Share Tech', sans-serif;
+    font-size: 60px;
+    color: aliceblue;
+    font-size: 4vw;
+}
