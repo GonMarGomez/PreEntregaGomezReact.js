@@ -1,0 +1,16 @@
+.cardDiv{
+font-family:'Share Tech', sans-serif;
+display: flex;
+justify-content: center;
+padding: 20px;
+background: linear-gradient(#340565, #B71AA9);
+}
+.card{
+display: flex;
+margin: 30px;
+max-width: 500px;
+}
+.precioCard{
+    font-weight: bold;
+
+}

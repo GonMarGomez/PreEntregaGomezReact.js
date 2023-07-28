@@ -1,15 +1,25 @@
+.section{
+    background-image: url('../../imagenes/6273506.gif');
+    background-position: center;
+    background-size: cover;
+}
 .itemContainer{
-    margin-bottom: 50px;
-    margin-bottom: 50px;
     background: linear-gradient(#340565, #B71AA9);
-    height: 100px;
-    display: flex;
-    justify-content: center;
     align-items: center;
+    
 }
 .itemContainerTitulo{
     font-family:'Share Tech', sans-serif;
     font-size: 60px;
     color: aliceblue;
     font-size: 4vw;
+    text-align: center;
+    margin: 0px;
+}
+.imgLoading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    margin-bottom: 100px;
 }

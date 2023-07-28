@@ -3,8 +3,10 @@
     width: 50vw;
 }
 .carrouselBS{
-margin-top: 150px;
-margin-bottom: 150px;
+padding: 150px;
+background-image: url('../../imagenes/6273506.gif');
+background-position: center;
+background-size: cover;
 }
 .CarouselFont{
     color: black;
