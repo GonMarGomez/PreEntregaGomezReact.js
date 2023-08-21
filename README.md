@@ -2,7 +2,7 @@
 
 GameShop is a web application built using React.js, Firebase, and Cloud Firestore, and styled with Bootstrap. It allows users to explore and purchase video games online.
 
-![GameShop Screenshot](screenshot.png)
+![GameShop Screenshot](https://i.postimg.cc/sX4xCgs9/Screenshot-2023-08-20-232933.png)
 
 ## Installation
 
@@ -36,27 +36,11 @@ GameShop is a web application built using React.js, Firebase, and Cloud Firestor
 - Smooth user experience with Bootstrap styling.
 - Utilizes Firebase for authentication and real-time database functionality with Cloud Firestore.
 
-## Contributing
-
-Contributions are welcome! Follow the steps mentioned in the previous README.
-
-## Credits
+## Tools
 
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
 - React.js: [https://reactjs.org/](https://reactjs.org/)
 - Firebase: [https://firebase.google.com/](https://firebase.google.com/)
 - Cloud Firestore: [https://firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, feel free to contact us at gameshop@example.com.
-
-## Additional Notes
-
-- Keep your dependencies up to date with `npm update`.
-- Visit our [wiki](https://github.com/your-username/GameShop/wiki) for more information about Firebase and Firestore integration.
 
