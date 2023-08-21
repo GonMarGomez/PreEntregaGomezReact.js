@@ -2,8 +2,7 @@
 
 GameShop is a web application built using React.js, Firebase, and Cloud Firestore, and styled with Bootstrap. It allows users to explore and purchase video games online.
 
-![GameShop Screenshot](https://i.postimg.cc/sX4xCgs9/Screenshot-2023-08-20-232933.png)
-
+![GameShop Screenshot]([enlace_de_la_imagen](https://i.postimg.cc/sX4xCgs9/Screenshot-2023-08-20-232933.png))
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/GameShop.git`
