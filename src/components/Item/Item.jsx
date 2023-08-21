@@ -11,7 +11,7 @@ const Item = ({prod}) => {
     <Card className='card'>
       <Card.Img variant="top" className='prodImg' src={prod.img} />
       <Card.Body>
-        <Card.Title>{prod.name}</Card.Title>
+        <Card.Title>{prod.title}</Card.Title>
         <Card.Text>
           {prod.description}
         </Card.Text>

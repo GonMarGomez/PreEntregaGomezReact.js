@@ -17,7 +17,7 @@ const {addProduct} = useCartContext()
     <Card className='card'>
       <Card.Img variant="top" className='prodImg' src={producto.img} />
       <Card.Body>
-        <Card.Title>{producto.name}</Card.Title>
+        <Card.Title>{producto.title}</Card.Title>
         <Card.Text>
           {producto.description}
         </Card.Text>

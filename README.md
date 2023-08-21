@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Proyecto final del curso React.js en CODERHOUSE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para este proyecto utilice
 
 ## Available Scripts
 

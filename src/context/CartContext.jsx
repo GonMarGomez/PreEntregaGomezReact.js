@@ -7,7 +7,7 @@ const CartProvider = ({ children }) => {
 
  const addProduct =(item, Nuevacantidad) =>{
     const newCart = cart.filter(prod => prod.id !== item.id);
-    newCart.push({...item, cantidad: Nuevacantidad});
+    newCart.push({...item, cantidad: Nuevacantidad,});
     setCart(newCart)
     console.log('carrito', cart);
  }
