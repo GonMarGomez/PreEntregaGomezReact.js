@@ -1,5 +1,5 @@
 import React, {useEffect, useState } from "react";
-import { getItem } from "../../mock/data";
+import { getItem } from "../../data/data";
 import ItemDetail from "../ItemDetail/ItemDetail";
 import { useParams } from "react-router-dom";
 import gifLoading from '../../imagenes/loadingGif.gif'

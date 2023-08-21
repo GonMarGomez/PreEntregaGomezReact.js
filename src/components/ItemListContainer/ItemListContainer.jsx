@@ -1,7 +1,7 @@
 import './index.css'
 import React, { useEffect, useState } from 'react';
 import ItemList from '../ItemList/ItemList';
-import { getProducts } from '../../mock/data';
+import { getProducts } from '../../data/data';
 import { useParams } from 'react-router-dom';
 import gifLoading from '../../imagenes/loadingGif.gif'
 
