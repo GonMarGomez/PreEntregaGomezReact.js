@@ -5,7 +5,7 @@ GameShop is a web application built using React.js, Firebase, and Cloud Firestor
 ![GameShop Screenshot](https://i.postimg.cc/sX4xCgs9/Screenshot-2023-08-20-232933.png)
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/GameShop.git`
+1. Clone the repository: `git clone https://github.com/your-username/GameShop.git](https://github.com/GonMarGomez/PreEntregaGomezReact.js.git`
 2. Navigate to the project directory: `cd GameShop`
 3. Install dependencies: `npm install`
 
