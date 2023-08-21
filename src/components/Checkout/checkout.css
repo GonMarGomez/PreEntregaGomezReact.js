@@ -1,0 +1,50 @@
+.checkoutform{
+    background: linear-gradient(#340565, #B71AA9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    flex-direction: column;
+    padding-bottom: 150px;
+}
+.formBox{
+    margin-top: 150px;
+    margin-bottom: 200px;
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+}
+.loadingDiv{
+    background-color: aquamarine;
+}
+.loadingTitle{
+    background-color: #340565;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+.checkoutTitle{
+    color: white;
+}
+.ordenDeCompraBox{
+    background: linear-gradient(#340565, #B71AA9);  
+    padding-top: 210px;
+    padding-bottom: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.ordenDeCompraText{
+    color: white;
+    margin: 0px;
+    text-align: center;
+    background-color: #340565;
+    border-radius: 5px;
+    width: 400px;
+}

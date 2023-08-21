@@ -1,7 +1,11 @@
 .navStyle{
-    background-color:  #060074;
+    background-color:  #06060b;
+    color: #06060b;
 }
 .navBarElements{
     display: flex;
     justify-content: center;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
 }

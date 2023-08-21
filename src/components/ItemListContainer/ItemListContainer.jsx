@@ -42,5 +42,4 @@ function ItemListContainer({ titulo }) {
    )
 }
 
-//export
 export default ItemListContainer;

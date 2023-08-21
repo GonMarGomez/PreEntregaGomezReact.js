@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import CardGroup from 'react-bootstrap/CardGroup';
 import './Item.css'
 const Item = ({prod}) => {
+
   return (
     <CardGroup className='cardDiv'>
     <Card className='card'>
@@ -15,11 +16,11 @@ const Item = ({prod}) => {
           {prod.description}
         </Card.Text>
         <Card.Text className='precioCard'>
-          {prod.price}
+          {`${prod.price}`}
         </Card.Text>
       </Card.Body>
       <Card.Footer>
-        <Button as={Link} to={`item/${prod.id}`} variant='light'>Ver más...</Button>
+        <Button as={Link} to={`/item/${prod.id}`} variant='light'>Ver más...</Button>
       </Card.Footer>
     </Card>
     </CardGroup>

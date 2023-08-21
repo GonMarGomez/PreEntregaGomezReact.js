@@ -3,9 +3,14 @@ import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 import '../Item/Item.css'
 import ItemCount from '../ItemCount/ItemCount.jsx'
+import { useCartContext } from '../../context/CartContext';
 const ItemDetail = ({producto}) => {
+
+const {addProduct} = useCartContext()
+
     const onAdd = (cantidad) => {
         console.log(`Compraste ${cantidad} Productos`);
+        addProduct(producto, cantidad)
      }
   return (
     <CardGroup className='cardDiv'>
@@ -26,6 +31,6 @@ const ItemDetail = ({producto}) => {
     </Card>
     </CardGroup>
   )
-}
+}   
 
 export default ItemDetail

@@ -1,0 +1,48 @@
+.cartsBox{
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(#340565, #B71AA9);
+    align-items: center; 
+}
+p{
+    text-align: center;
+}
+.cartsBoxClean{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(#340565, #B71AA9);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.cartsBoxBackground{
+    margin: 0px;
+   width: 750px;
+   height: 400px;
+    background-image: url('../../imagenes/tumblr_on8sj64aem1tn6k7ro1_1280.gif');
+}
+h1{
+    margin: 0px;
+}
+.titleCarts{
+    text-align: center;
+}
+.linkCart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.comprarBox{
+    background-color: #340565;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.textPrecio{
+    color: white;
+    font-size: 18px;
+}

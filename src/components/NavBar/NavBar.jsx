@@ -10,7 +10,7 @@ import { NavLink } from 'react-router-dom';
 
 function NavBar(){
   return (
-    <Navbar className='navStyle bg-body-tertiary ' data-bs-theme="dark"  expand="lg">
+    <Navbar className='navStyle bg-body-tertiary' data-bs-theme="dark"  expand="lg">
     <Container  className='navBarElements'>
       <Navbar.Brand as={NavLink} to='/'> <img
               src={imgLogo}
@@ -33,7 +33,9 @@ function NavBar(){
             <NavDropdown.Divider />
           </NavDropdown>
         </Nav>
+        <NavLink className={NavLink} as={NavLink} to ='/cart'>
             <CartWidget></CartWidget>
+        </NavLink>
       </Navbar.Collapse>
     </Container>
     </Navbar>

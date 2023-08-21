@@ -19,7 +19,7 @@ return(
         <span className="btn">{count}</span>
         <Button variant="light" onClick={sumar}>+</Button>            
         </div>
-    < Button className="mt-2" variant="light" disabled={count === 0} onClick={()=>onAdd(count)}>COMPRAR</Button>
+    < Button className="mt-2" variant="light" disabled={count === 0} onClick={()=>onAdd(count)}>Agregar al carrito</Button>
     </div>
 )
 }
