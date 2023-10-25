@@ -1,6 +1,26 @@
 # GameShop
 
-GameShop is a web application built using React.js, Firebase, and Cloud Firestore, and styled with Bootstrap. It allows users to explore and purchase video games online.
+¡Bienvenido a mi proyecto de eCommerce de videojuegos! En este emocionante proyecto, he aplicado una amplia variedad de tecnologías y herramientas de desarrollo web. Esta plataforma te permite explorar y adquirir tus videojuegos favoritos de manera sencilla y segura. Aquí hay algunas características destacadas:
+
+Tecnologías utilizadas:
+
+Lenguaje de programación: JavaScript
+Lenguaje de marcado de etiquetas: HTML5
+Lenguajes de estilado: CSS, SASS-SCSS
+Dependencias:
+
+React: Una potente biblioteca de JavaScript para la creación de interfaces de usuario interactivas.
+React Bootstrap: Una implementación de Bootstrap para React que facilita el diseño y la creación de componentes de interfaz de usuario.
+Firebase: La plataforma de desarrollo de aplicaciones móviles y web de Google, que permite la autenticación de usuarios y el almacenamiento de datos en tiempo real.
+Bootstrap: El popular marco de diseño CSS para crear sitios web atractivos y receptivos.
+Otras dependencias para pruebas y medición de rendimiento.
+Características clave:
+
+Carrito de compras interactivo: Puedes agregar y eliminar videojuegos de tu carrito de compras según tus preferencias.
+Proceso de compra: Al finalizar tu selección, puedes completar la compra y generar una orden de compra.
+Base de datos en tiempo real: Utiliza Firebase para almacenar y sincronizar datos en tiempo real, lo que garantiza una experiencia de compra fluida.
+Interfaz atractiva: El diseño de la plataforma se inspira en los elementos retro-vintage, lo que le da un toque único y atractivo.
+Este proyecto representa una oportunidad para mostrar mis habilidades en el desarrollo web y ofrecer una experiencia de compra de videojuegos divertida y efectiva. Disfruta explorando la colección de videojuegos y experimenta el proceso de compra. ¡Gracias por visitar mi eCommerce de videojuegos!
 
 ![GameShop Screenshot](https://i.postimg.cc/sX4xCgs9/Screenshot-2023-08-20-232933.png)
 ## Installation
